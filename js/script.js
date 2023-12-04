@@ -48,12 +48,12 @@ $('.js-toggle').on('click', function(){
 const artyom = new Artyom();
 var commands = [
  {
-	 indexes:["up to no good"],
+	 indexes:["Juro solemnemente  intenciones buenas*"],
 	 action:function() {
 		 $('.map-base').addClass('active');
 	 }
  }, {
-	 indexes:["mischief managed"],
+	 indexes:["travesura realizada*"],
 	 action:function() {
 		 $('.map-base').removeClass('active');
 	 }
